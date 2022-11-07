@@ -1,0 +1,23 @@
+2022-11-06 14:21:47 - [31merror[39m: [31mNão foi possível conectar[39m
+2022-11-06 14:21:47 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2022-11-07 13:23:02 - [31merror[39m: [31mNão foi possível conectar ao banco de dados[39m
+2022-11-07 13:24:18 - [31merror[39m: [31mNão foi possível conectar ao banco de dados[39m
+2022-11-07 16:53:54 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 16:55:46 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:04:15 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:10:34 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:13:39 - [31merror[39m: [31mNão foi possível conectar ao banco de dados[39m
+2022-11-07 17:13:57 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:14:15 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:19:44 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:21:33 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:22:23 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [movies.movies][39m
+2022-11-07 17:24:06 - [31merror[39m: [31mNão foi possível conectar ao banco de dados[39m
+2022-11-07 17:24:20 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:25:33 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:29:03 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:29:05 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 17:29:32 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-11-07 18:28:44 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "{ id: '6369772e5d216f5a7a33c28e' }" (type Object) at path "_id" for model "Movie"[39m
+2022-11-07 18:29:50 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "{ id: '6369772e5d216f5a7a33c28e' }" (type Object) at path "_id" for model "Movie"[39m
+2022-11-07 18:30:17 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "{ id: '6369772e5d216f5a7a33c28e' }" (type Object) at path "_id" for model "Movie"[39m
