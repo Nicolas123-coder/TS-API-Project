@@ -1,16 +1,18 @@
-# TS-API-Project
+# Movie TS API 🎥
 
   
-## How to run
+## How to run ⚙️
 
     npm i 
-    npm run start dev
+    npm run dev
 
-## About the Project
+## About the Project ✏️
 
-The Project consists in a MVC Api builted in TypeScript, you can add, update, delete and get data about a movie (the data are specified in the Model) 
+The Project consists in a MVC Api builted in TypeScript, you can add, update, delete and get data about a movie (the data are specified in the Model).
 
-### Movie Model (Entity)
+For logs I used Winston, MongoDB for the DataBase and mongoose as Orm. 
+
+## Movie Model (Entity)
 
     {
         title: {type:  String},
@@ -25,3 +27,30 @@ The Project consists in a MVC Api builted in TypeScript, you can add, update, de
     }
 
  
+## Routes
+- [GET] Get All Movies
+/api/movie
+
+-[GET] Get Movie By ID 
+/api/movie/id
+
+-[POST] Create a Movie
+/api/movie
+
+-[DELETE] Delete Movie
+/api/movie/id
+
+-[PATCH] Update Movie
+/api/movie/id
+
+
+payload to UPDATE/POST: 
+
+    {
+            title: {type:  String},
+            rating: {type:  Number},
+            description: {type:  String},
+            director: {type:  String},
+            stars: {type:  Array},
+            poster: {type:  String}
+    },
