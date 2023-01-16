@@ -28,7 +28,7 @@ For logs I used Winston, MongoDB for the DataBase and mongoose as Orm.
 
  
 ## Routes
-- [GET] Get All Movies
+-[GET] Get All Movies
 /api/movie
 
 -[GET] Get Movie By ID 
